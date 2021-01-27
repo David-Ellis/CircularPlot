@@ -27,7 +27,7 @@ CP.circularPlot(x, y2, xmax, ymax, grid = False)
 ```
 
 
-![png](figures/plot2.png)
+![png](figures/plot1.png)
 
 
 ## Circular Plot with Dates
